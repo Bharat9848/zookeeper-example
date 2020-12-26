@@ -1,0 +1,13 @@
+= Zookeeper Examples
+
+== Introduction:
+Some examples showcaseing zookeeper.
+
+== Project Tech stack
+== BootStrapping Server:
+As this project uses Docker and docker compose it you can start stop the server using docker-compose commands
+
+. build
+- gradle build: this will create an executable jar
+- docker image -t zookeeper-example .
+- docker-compose run

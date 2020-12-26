@@ -1,0 +1,9 @@
+1. Discovery:
+2. Resource Allocation:
+3. Leader Election:
+Simple Algo: Lowest Sequential ephemeral node is the leader.
+4. High Priority notification:
+
+Exercise
+5. Ephemeral zNode example.
+6. Sequential zNode example.
